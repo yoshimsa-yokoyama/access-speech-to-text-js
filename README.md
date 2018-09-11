@@ -6,7 +6,7 @@ Example of accessing to Google Speech-to-Text REST API via Javascript
 
 ```
 npm i
-src/js/constants.js  // add your API key
+vi src/js/constants.js  // add your API key
 ```
 
 
