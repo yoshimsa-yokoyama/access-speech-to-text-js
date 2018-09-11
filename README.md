@@ -9,7 +9,11 @@ npm i
 vi src/js/constants.js  // add your API key
 ```
 
+## Start demo
 
+```
+npm start
+```
 
 ## Disclaimer
 - Since there is no official example of how to access Google Speech-to-Text REST API via javascript so this code may not be working in the future.
