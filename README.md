@@ -15,6 +15,12 @@ vi src/js/constants.js  // add your API key
 npm start
 ```
 
+## Other commands
+```
+npm run preview   // export test files to "dist" directory
+npm run publish   // export files to "htdocs" directory
+```
+
 ## Disclaimer
 - Since there is no official example of how to access Google Speech-to-Text REST API via javascript, this code may not be working in the future.
 - This code should be run on HTTPS environment otherwise getUserMedia() will give you an error.
